@@ -11,3 +11,4 @@ To see the Demo:
 3) Go to your local Git (I use Gitbash from Windows Terminal) and type "git clone " and then paste the URL
 4) Go to your IDE (I use Visual Studio) and open the folder where you saved the repo
 5) Open a blank tab on your Internet browser and drag the Eyes.html file to it
+6) You can then move your cursor around your screen and the eyes will follow in the same direction
